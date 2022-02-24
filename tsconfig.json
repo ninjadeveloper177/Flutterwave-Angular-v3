@@ -15,6 +15,11 @@
     "lib": [
       "es2016",
       "dom"
-    ]
+    ],
+    "paths": {
+      "Flutterwave-Angular-v3": [
+        "dist/flutterwave-angular-v3"
+      ]
+    }
   }
 }

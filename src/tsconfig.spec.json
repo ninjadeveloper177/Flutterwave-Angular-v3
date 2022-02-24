@@ -16,10 +16,5 @@
   "include": [
     "**/*.spec.ts",
     "**/*.d.ts"
-  ],
-  "paths": {
-    "Flutterwave-Angular-v3": [
-      "dist/flutterwave-angular-v3"
-    ]
-  }
+  ]
 }
