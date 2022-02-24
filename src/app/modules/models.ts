@@ -71,7 +71,7 @@ class  AsyncPaymentOptions {
 }
 
 
-declare function  FlutterwaveCheckout(any)
+declare function FlutterwaveCheckout(any)
 
 /**
  * Payment Response

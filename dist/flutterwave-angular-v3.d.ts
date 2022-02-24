@@ -1,5 +1,5 @@
 /**
  * Generated bundle index. Do not edit.
  */
+/// <amd-module name="flutterwave-angular-v3" />
 export * from './public_api';
-export { ApiTracking as ɵa } from './src/app/modules/api-tracking.service';

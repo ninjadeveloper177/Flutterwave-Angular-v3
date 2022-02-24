@@ -27,7 +27,7 @@ export class Flutterwave {
 
   }
 
-  asyncInlinePay(paymentData: AsyncPaymentOptions): Promise<PaymentSuccessResponse | 'closed'> {
+  asyncInlinePay(paymentData: AsyncPaymentOptions | any): Promise<PaymentSuccessResponse | 'closed'> {
 
     return new Promise((resolve, reject) => {
 
